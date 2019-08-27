@@ -37,6 +37,7 @@ public class MyStringStack {
     	String result = v.lastElement();
     	v.remove(result);
     	System.out.println("hello");
+        System.out.println("hii");
     	return result;
 
         //return v.lastElement();
